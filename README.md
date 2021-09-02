@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristhianviera1
-- 👀 I’m interested in frontend - devOps - ci/cd - testing
+- 👀 I’m interested in frontend - backend - devOps - ci/cd - testing - clean architectures
 - 🌱 I’m currently learning new paradigms of development
 - 📫 How to reach me: cristhian.viera1@gmail.com  
 
