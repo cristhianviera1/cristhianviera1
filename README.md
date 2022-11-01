@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gabriel
-- 👀 I’m interested in frontend - backend - devOps - ci/cd - testing - clean architectures
-- 🌱 I’m currently learning new paradigms of development
+- 👀 I’m interested in backend - best practices - devOps - ci/cd - testing - clean architectures
 - 📫 How to reach me: cristhian.viera1@gmail.com  
 
 <!---
